@@ -2,8 +2,13 @@ package com.company;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
-   }
+        int age = 21;
+        String name = "alise";
+        if (name.equals("alise")) ;
+        {
+            System.out.println("First True");
+        }
+    }
 }
 
 
